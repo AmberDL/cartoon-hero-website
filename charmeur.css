@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, Sans-Serif;
+}
+
+header{
+	background-color: salmon;
+	text-align: center;
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+
+header h1{
+	color: white;
+}
+
+header img{
+	border-radius: 300px;
+	width: 700px;
+	border: 10px solid white;
+}
